@@ -107,9 +107,11 @@ Este documento contém regras e diretrizes para o desenvolvimento e manutenção
 ## Ferramentas de Qualidade
 
 ### Implementadas
+
 - .nvmrc para controle de versão do Node.js
 
 ### Sugestões para Implementação Futura
+
 - ESLint para análise estática de código
 - Prettier para formatação consistente
 - Husky para git hooks (pre-commit, pre-push)
